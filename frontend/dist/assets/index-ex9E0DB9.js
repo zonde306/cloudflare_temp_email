@@ -49498,7 +49498,7 @@ components: ${l_(i)}
       return Il.value = t, t;
     }
   };
-  dq = "https://temp-email-api.xxx.xxx";
+  dq = "https://tempmail.zonde306.site";
   ({ loading: ry, auth: fq, jwt: Mc, settings: oy, openSettings: to, userOpenSettings: iy, userSettings: Ta, announcement: Tf, showAuth: c_, adminAuth: hq, showAdminAuth: pq, userJwt: fu } = Ut());
   mq = fn.create({
     baseURL: dq,
